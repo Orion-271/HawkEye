@@ -1,0 +1,52 @@
+[
+    {
+        "id": "B001",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "area": 400,
+        "damage": "Destroyed",
+        "priority": 1,
+        "estimated_population": 4.509264,
+        "population_density": 11273.16
+    },
+    {
+        "id": "B002",
+        "latitude": 12.972,
+        "longitude": 77.595,
+        "area": 250,
+        "damage": "Major Damage",
+        "priority": 2,
+        "estimated_population": 1.5337525,
+        "population_density": 6135.01
+    },
+    {
+        "id": "B003",
+        "latitude": 12.9712,
+        "longitude": 77.5942,
+        "area": 600,
+        "damage": "Minor Damage",
+        "priority": 3,
+        "estimated_population": 4.222734,
+        "population_density": 7037.89
+    },
+    {
+        "id": "B004",
+        "latitude": 19.076,
+        "longitude": 72.8777,
+        "area": 500,
+        "damage": "Destroyed",
+        "priority": 1,
+        "estimated_population": 7.536775,
+        "population_density": 15073.55
+    },
+    {
+        "id": "B005",
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "area": 350,
+        "damage": "Major Damage",
+        "priority": 2,
+        "estimated_population": 2.4889164999999998,
+        "population_density": 7111.19
+    }
+]
